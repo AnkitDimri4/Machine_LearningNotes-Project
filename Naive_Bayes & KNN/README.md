@@ -13,9 +13,7 @@ This repository offers a comprehensive guide to understanding and implementing t
   - The algorithm assumes that the features are independent, a condition often referred to as "naive" but effective in practice.
 
 - **Bayes' Theorem Formula**
-  $$
-  P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
-  $$
+  $$P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}$$
   - This formula calculates the probability of event A given that B is true.
 
 - **Working**
@@ -35,7 +33,7 @@ This repository offers a comprehensive guide to understanding and implementing t
   - The choice of k is critical, a small k can lead to overfitting, while a large k can cause underfitting. The optimal k is usually determined by testing different values.
 
 ## **Getting Started**
-To replicate the implementations in this repository, make sure you have Python installed along with the required libraries. You can install them using the following command:
+To replicate the implementations in this repository, make sure you have Python installed along with the required libraries. You can install them using the following command
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn seaborn
