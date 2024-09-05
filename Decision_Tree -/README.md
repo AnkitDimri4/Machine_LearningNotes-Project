@@ -45,4 +45,3 @@ pip install numpy pandas scikit-learn matplotlib
 ---
 
 <div align="center"> Created by Ankit Dimri © 2024 </div>
----
