@@ -37,20 +37,11 @@ This repository offers a comprehensive guide to understanding and implementing t
 ---
 
 ## **Getting Started**
-To run the code examples, ensure you have the required libraries installed:
+To run the code examples, make sure you have the required libraries installed:
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib
 ```
-
-**Clone the Repository**
-   Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/DecisionTreeClassifier
-   ```
-
-**Run the Code**
-   Open the Python scripts provided in the repository and run the decision tree implementation using the **Iris dataset** or your own dataset.
 ---
 
 <div align="center"> Created by Ankit Dimri © 2024 </div>
