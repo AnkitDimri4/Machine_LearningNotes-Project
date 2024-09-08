@@ -1,4 +1,3 @@
-This repository covers the fundamentals of **Neural Networks**, focusing on understanding the key concepts, forward and backward propagation, AND/XOR gate implementation, and a project on **MNIST Handwriting Recognition**. The content provides theoretical insights, detailed notes, and practical implementations in Python.
 #
 ---
 # **Neural Networks Notes & Implementation**
