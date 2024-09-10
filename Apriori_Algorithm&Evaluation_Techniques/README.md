@@ -78,7 +78,8 @@ This includes
 - **pandas** for data manipulation.
 - **mlxtend** for the Apriori algorithm and association rules.
 
-These installations will cover the requirements for both the Apriori Algorithm project and the Model Evaluation Dashboard project.
+**These installations will cover the requirements for both the Apriori Algorithm project and the Model Evaluation Dashboard project.**
+
 ---
 
 <div align="center">
